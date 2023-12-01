@@ -1,0 +1,43 @@
+{
+  "notes": [
+    {
+      "text": "Hello express js with lowdb",
+      "id": "TVasX8an4xk72ElVRcP8V"
+    },
+    {
+      "text": "Hello express js with lowdb",
+      "id": "Muqldqf7dfSqCXgnSBMgM"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@codexje.com",
+      "password": "testpassword",
+      "id": "Vfjsdfuifuibbh"
+    },
+    {
+      "email": "test@rayen.com",
+      "password": "$2b$10$EovXTDBp6NwwPzEiEUULv.pI1WBtb7jF7N1hX9PTsq0eMlCOsC/TW"
+    },
+    {
+      "email": "rayenzaalouni245@gmail.com",
+      "password": "$2b$10$i04WVdI4JiGvXQ/AYO488urtpAJysEidt2u8WMdRkwJ0UgfbbDvhu"
+    },
+    {
+      "email": "registertest@mail.com",
+      "password": "$2b$10$AI6OpaOUWPQINs5HWR.2FOeXwCPTro55hE57ac2mFnY7.pSQQDa/e"
+    },
+    {
+      "email": "e5ertest@mail.com",
+      "password": "$2b$10$.DbAo2NJp7w/nN64Mu54/eZmU2nkQyG/SeaTMB01CGMb5cWfEwGtG"
+    },
+    {
+      "email": "babayaga@mail.com",
+      "password": "$2b$10$5T.SPgzjQPrW5BFO4tqlfe83.FsFIslsbuRlTLUCOI.zZONeeYAqS"
+    },
+    {
+      "email": "mafamech@mail.com",
+      "password": "$2b$10$IYZ1cqW/Pv9ShgnBxQkbgu1xjVkTCJLf2BHaWOc3T0.0njL.nuZwO"
+    }
+  ]
+}
