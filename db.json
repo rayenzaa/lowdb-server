@@ -12,8 +12,7 @@
   "users": [
     {
       "email": "admin@codexje.com",
-      "password": "testpassword",
-      "id": "Vfjsdfuifuibbh"
+      "password": "testpassword"
     },
     {
       "email": "test@rayen.com",
